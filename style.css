@@ -28,12 +28,16 @@ h4 {
   text-align: center;
   white-space: pre;
 }
+.intro{
+    text-align: center;
+}
 .get-started {
-  text-align: center;
   background-color: #fff;
-  border: 1px solid #333;
+  border: 1px solid #ccc;
   padding: 10px;
   border-radius: 35px;
+  width: 20%;
+  margin: auto;
 }
 input {
   border: none;
@@ -62,3 +66,35 @@ button{
     flex-direction: column;
     align-items: flex-start;
 }
+.image{
+    width: 100%;
+}
+.support-type{
+    background-color: #ddd;
+    padding: 10px;
+}
+.card{
+    padding: 10px 20px;
+    background-color: #fff;
+    margin: 20px;
+    text-align: left;
+}
+.bluecard{
+    color: #fff;
+    background-color: blueviolet;
+}
+.cardios{
+    /* flex-direction: column; */
+}
+.imag{
+    max-width: 25px;
+}
+.cardio{
+    padding: 10px;
+    background-color: #fff;
+    margin: 10px;
+    width: 300px;
+}
+/* .images{
+    max-width: 60%;
+} */
