@@ -70,7 +70,7 @@ button{
     width: 100%;
 }
 .support-type{
-    background-color: #ddd;
+    /* background-color: #ddd; */
     padding: 10px;
 }
 .card{
