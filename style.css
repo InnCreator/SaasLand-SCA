@@ -83,9 +83,9 @@ button{
     color: #fff;
     background-color: blueviolet;
 }
-.cardios{
-    /* flex-direction: column; */
-}
+/* .cardios{
+    flex-direction: column;
+} */
 .imag{
     max-width: 25px;
 }
